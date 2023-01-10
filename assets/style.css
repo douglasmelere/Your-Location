@@ -10,10 +10,6 @@
     border-radius: 8px;
     border-color: black;
 }
-html{
-    overflow-y:hidden;
-    overflow-x:hidden;
-}
 body {
     background-color: #90EE90;
     text-align: center;
